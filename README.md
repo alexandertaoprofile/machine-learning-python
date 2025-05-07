@@ -1,1 +1,1 @@
-previous homework assignment scripts yet to be published
+previous homework assignment and fun self-motivited project scripts 
