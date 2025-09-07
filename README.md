@@ -15,7 +15,11 @@ Simulates thousands of games to estimate win rates and ranking distributions.
 
 Skills Demonstrated
 Machine Learning: XGBoost, SHAP, feature engineering, model evaluation.
+
 Simulation & Probability: Monte Carlo methods, stochastic modeling.
+
 Software Engineering: Object-oriented programming (OOP), modular code design.
+
 Visualization: Matplotlib/SHAP plots for model interpretability
+
 Data Handling: JSON mappings, CSV parsing, multi-dataset validation.
