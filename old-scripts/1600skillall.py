@@ -162,4 +162,5 @@ if __name__ == "__main__":
     print("\n=== 前二率分析 ===")
     paired_skills = analyze_skills(X, y['paired_rate'], skill_names)
     print(paired_skills.head(30))
+
     plot_skill_impact(paired_skills, "前二率")
